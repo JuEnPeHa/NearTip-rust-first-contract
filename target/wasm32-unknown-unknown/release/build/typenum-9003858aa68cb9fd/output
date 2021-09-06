@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/target/wasm32-unknown-unknown/release/build/typenum-9003858aa68cb9fd/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/target/wasm32-unknown-unknown/release/build/typenum-9003858aa68cb9fd/out/op.rs

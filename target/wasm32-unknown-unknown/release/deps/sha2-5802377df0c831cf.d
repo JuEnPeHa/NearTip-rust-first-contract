@@ -1,0 +1,12 @@
+/Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/target/wasm32-unknown-unknown/release/deps/sha2-5802377df0c831cf.rmeta: /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/lib.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/consts.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256/soft.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512/soft.rs
+
+/Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/target/wasm32-unknown-unknown/release/deps/libsha2-5802377df0c831cf.rlib: /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/lib.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/consts.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256/soft.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512/soft.rs
+
+/Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/target/wasm32-unknown-unknown/release/deps/sha2-5802377df0c831cf.d: /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/lib.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/consts.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256/soft.rs /Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512/soft.rs
+
+/Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/lib.rs:
+/Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/consts.rs:
+/Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256.rs:
+/Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512.rs:
+/Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha256/soft.rs:
+/Users/Mac/.cargo/registry/src/github.com-1ecc6299db9ec823/sha2-0.9.6/src/sha512/soft.rs:

@@ -1,0 +1,1 @@
+/Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/target/wasm32-unknown-unknown/release/rust-counter-tutorial.wasm: /Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/src/lib.rs /Users/Mac/Documents/jose/repositorios/RustProjects/rust-first-contract/src/main.rs
